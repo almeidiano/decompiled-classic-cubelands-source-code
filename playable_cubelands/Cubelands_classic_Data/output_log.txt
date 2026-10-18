@@ -1,0 +1,47 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 32.0.16.1088]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-03100A40 (this message is harmless)
+Non platform assembly: data-0316C020 (this message is harmless)
+Non platform assembly: data-10A60048 (this message is harmless)
+Non platform assembly: data-03174C60 (this message is harmless)
+Non platform assembly: data-10A96388 (this message is harmless)
+Non platform assembly: data-0317D668 (this message is harmless)
+Platform assembly: C:\Users\samue\decompiled-classic-cubelands-source-code\playable_cubelands\Cubelands_classic_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\samue\decompiled-classic-cubelands-source-code\playable_cubelands\Cubelands_classic_Data\Managed\Boo.Lang.dll (this message is harmless)
+Preloader awake
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Preloader:Awake()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Preloader: STARTGAME CALLED
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<StartGame>d__17:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Preloader:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 228.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Install Kong 
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kongregate:Awake()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 232.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)

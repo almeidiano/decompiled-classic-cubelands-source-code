@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YgK/pdHqoo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\decompiled-classic-cubelands-source-code\\Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.3\\microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

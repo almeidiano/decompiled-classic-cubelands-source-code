@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\samue\\decompiled-classic-cubelands-source-code\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samue\\decompiled-classic-cubelands-source-code\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samue\\decompiled-classic-cubelands-source-code\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "C:\\Users\\samue\\decompiled-classic-cubelands-source-code\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\decompiled-classic-cubelands-source-code\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net20"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net20": {
+            "targetAlias": "net20",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net20": {
+          "targetAlias": "net20",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

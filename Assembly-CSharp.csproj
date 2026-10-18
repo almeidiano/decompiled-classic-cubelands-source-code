@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>../playable_cubelands/Cubelands_classic_Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJson">
+      <HintPath>../playable_cubelands/Cubelands_classic_Data/Managed/LitJson.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>../playable_cubelands/Cubelands_classic_Data/Managed/Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
